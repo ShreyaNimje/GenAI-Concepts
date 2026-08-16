@@ -1,4 +1,4 @@
-# 🔬 Practical 01: End-to-End NLP Text Analyzer
+# 🔬 Practical 02: End-to-End NLP Text Analyzer
 
 An interactive web application built with **Streamlit**, **spaCy**, and **NLTK** that performs complete Natural Language Processing (NLP) text analysis, including lexical normalization, syntactic parsing, and information extraction.
 
